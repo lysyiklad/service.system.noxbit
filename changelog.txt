@@ -1,0 +1,8 @@
+v.1.0.2
+-rename add-on
+
+v.1.0.1
+- binary engine files from 13.02.2018 
+
+v.1.0.0
+- binary engine files from 2017г.  
