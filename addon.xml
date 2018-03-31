@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="service.system.noxbit"
-       name="NOXBIT"
-       version="1.0.1"
+       name="NOXBIT (LibreELEC armhf)"
+       version="1.0.2"
        provider-name="lysyi">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
